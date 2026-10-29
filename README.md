@@ -1,6 +1,6 @@
 
 # Rafeeq in Production - Capstone Project
-Submitted by : Ruba Hasan Aloraydi
+Submitted by : Ruba Hasan Fahad
 Course: Advanced Agentic AI systems Engineering - SDAIA Academy 
 
 ## Project Overview
